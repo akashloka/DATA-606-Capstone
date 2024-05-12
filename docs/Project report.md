@@ -2,7 +2,7 @@
 
 ## Deciphering Earth’s Surface – Land Cover Prediction via Computer Vision on Satellite Imagery
 
-### Submitted by
+### A Project by :
 Akash Reddy – LB04019
 
 Yashwanth Vemulapalli – PP24297
