@@ -16,6 +16,7 @@ Yashwanth Vemulapalli – PP24297
 ### 2. ABSTRACT
 
 Nowadays, effective continuous environmental monitoring, disaster response, and urban planning are vital for the development that satisfies the current needs while safeguarding the capacity of future generations to meet their own. In this project, we aimed to address the critical need for an automated image recognition system capable of predicting land cover in satellite imagery. This system would facilitate ongoing observation of shifts in the environment, prompt reactions to disasters, and well-informed urban development strategies.  
+
 To build this Image recognition system we used EuroSAT Sentinel 2 satellite images which had 27000 images belonging to 10 different classes. Each image in the dataset had 13 spectral bands. We experimented with 4 different architectures [Custom CNN model, Pretrained VGG19+ Pretrained VGG16, Pretrained Xception] and could achieve a maximum accuracy of 97.13% on unseen test data using VGG19. Further, the web application created using the Streamlit was deployed using NGROK. 
 
 ### 3.	INTRODUCTION
@@ -102,8 +103,3 @@ Link - https://ieeexplore.ieee.org/abstract/document/8736785
 Link - https://ieeexplore.ieee.org/abstract/document/8851840
 3.	Shaha, M., & Pawar, M. (2018, March). Transfer learning for image classification. In 2018 second international conference on electronics, communication and aerospace technology (ICECA) (pp. 656-660). IEEE.
 Link - https://ieeexplore.ieee.org/document/8474802
-
-
-
-
-![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/080ae020-0975-44cd-9789-f006b85b39de)
