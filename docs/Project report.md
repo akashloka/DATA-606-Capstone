@@ -59,7 +59,7 @@ From the above plot it can be observed that the Pasture image label has least nu
 *	Annual Crop
 *	Residential
 
-<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/e1f90631-4f96-4c95-80bd-cf0191c7045f">
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/6d2d2482-6e22-4469-93ca-8cd8222e7ad9)
 
 Fig.2  – Line chart showing channel size variation
 
