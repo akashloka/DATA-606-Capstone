@@ -28,6 +28,7 @@ The environmental surveillance can be achieved by training and deploying the CNN
 ### 4.	DATASET
 The dataset was created by the Remote Sensing Technology institute of the German Aerospace Centre. The EuroSAT dataset contains high resolution Sentinel-2 satellite images from the European Space Agency’s Copernicus program. There are total of 27000 images distributed among 10 classes. Each image in the dataset had 13 spectral bands. The images cover various landscapes such as urban areas, farmland, forest, sea and lake, residential areas, annual crops, bare land and more. The size of the dataset is 2.7 GB. 
 
+Dataset : https://github.com/phelber/eurosat
 Link to download - https://madm.dfki.de/files/sentinel/EuroSATallBands.zip
 
 ### 5.	LITERATURE REVIEW
