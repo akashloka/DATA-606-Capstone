@@ -104,12 +104,12 @@ Table.1 – Summary of the Models
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/4db8fc36-a22b-4da5-b01d-250e87f8365c)
 
                                       Fig.5 – Loss and Accuracy plot for CNN Model
- 
-![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/f6db1201-cbdf-4b3f-a729-201f36d236d2)
+                                      
+ ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/a7a38f93-81c9-4eca-94f2-f5ab78263c54)
 
                                       Fig.6 – Loss and Accuracy plot for 	VGG19 Model
  
-![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/9be3de12-65f4-4fd7-9e7e-fce88bd6d3ae)
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/8d3b50b4-4936-4aa9-b8bf-032c6a07d673)
 
                                       Fig.7 – Loss and Accuracy plot for VGG16 Model
  
