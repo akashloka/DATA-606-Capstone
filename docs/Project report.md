@@ -13,7 +13,6 @@ Yashwanth Vemulapalli – PP24297
 * Course Code: Data 606
 * Presentation file: 
 
- 
 ### 2. ABSTRACT
 
 Nowadays, effective continuous environmental monitoring, disaster response, and urban planning are vital for the development that satisfies the current needs while safeguarding the capacity of future generations to meet their own. In this project, we aimed to address the critical need for an automated image recognition system capable of predicting land cover in satellite imagery. This system would facilitate ongoing observation of shifts in the environment, prompt reactions to disasters, and well-informed urban development strategies.  
