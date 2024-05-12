@@ -53,11 +53,11 @@ Shaha and Pawar delve into the utilization of CNNs, specifically leveraging pre-
 Fig.1 – Bar Plot for Distribution of land cover class labels
 
 From the above plot it can be observed that the Pasture image label has least number of images in dataset and whereas the below mentioned labels has the highest number of images.
-•	Herbaceous Vegetation
-•	Forest
-•	Sealake
-•	Annual Crop
-•	Residential
+*	Herbaceous Vegetation
+*	Forest
+*	Sealake
+*	Annual Crop
+*	Residential
 
 <img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/e1f90631-4f96-4c95-80bd-cf0191c7045f">
 
