@@ -69,7 +69,8 @@ From the above line chart, it can be observed that there are same number of chan
 
                                       Fig.3– Sample images from the dataset.
  
-![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/6087c7e3-5e5d-427a-9806-f10fcb2e3bf3)
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/e55ba569-d055-42ec-b3ed-9560913b69fe)
+
 
                                       Fig.4 – Line chart for heights and widths of images.
 
