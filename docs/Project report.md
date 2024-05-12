@@ -65,11 +65,11 @@ Fig.2  – Line chart showing channel size variation
 
 From the above line chart, it can be observed that there are same number of channels for all the images in the dataset which are 13.
  
-<img width="426" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/9b99f851-3a13-433d-b208-7a2561402f3c">
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/0f3c6ab8-2b15-4ada-9d33-1c04a4fa12f9)
 
 Fig.3– Sample images from the dataset.
  
-<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/3d773609-cef8-4375-b702-a98e90a75e43">
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/6087c7e3-5e5d-427a-9806-f10fcb2e3bf3)
 
 Fig.4 – Line chart for heights and widths of images.
 
@@ -100,12 +100,20 @@ VGG16	15242156	0. 1067	0. 0961	0. 9651	0. 9689
 Xception	22907284	0. 1122	0. 2156	0. 9614	0.9607
 Table.1 – Summary of the Models
  
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/4db8fc36-a22b-4da5-b01d-250e87f8365c)
+
 Fig.5 – Loss and Accuracy plot for CNN Model
  
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/f6db1201-cbdf-4b3f-a729-201f36d236d2)
+
 Fig.6 – Loss and Accuracy plot for 	VGG19 Model
  
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/9be3de12-65f4-4fd7-9e7e-fce88bd6d3ae)
+
 Fig.7 – Loss and Accuracy plot for VGG16 Model
  
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/1254e85c-a161-417f-a0c0-79a6fa41dd4e)
+
 Fig.8 – Loss and Accuracy plot for Xception Model
 
 ### 9.	CONCLUSION
