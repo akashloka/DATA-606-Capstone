@@ -2,16 +2,16 @@
 
 ## Deciphering Earth’s Surface – Land Cover Prediction via Computer Vision on Satellite Imagery
 
-### A Project by :
-Akash Reddy – LB04019
 
-Yashwanth Vemulapalli – PP24297
 
 ### 1. Title and Author
-* Project Title : Deciphering Earth’s Surface – Land Cover Prediction via Computer Vision on Satellite Imagery
-* Prepared for UMBC Data Science Master Degree Capstone by Dr. Tony Diana
-* Course Code: Data 606
-* Presentation file:
+#### Project Title : Deciphering Earth’s Surface – Land Cover Prediction via Computer Vision on Satellite Imagery
+#### A Project by :
+* Akash Reddy – LB04019
+* Yashwanth Vemulapalli – PP24297
+#### Prepared for UMBC Data Science Master Degree Capstone by Dr. Tony Diana
+#### Course Code: Data 606
+#### Presentation file:
 
 ### 2. Background
 #### What are your research questions?
