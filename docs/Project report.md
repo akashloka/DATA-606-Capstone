@@ -48,7 +48,7 @@ Shaha and Pawar delve into the utilization of CNNs, specifically leveraging pre-
 
 ### 6.	EXPLORATORY DATA ANALYSIS
 
-<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/58fa4c12-e4ce-414b-b2e9-7b1ea5b81a47">
+![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/c2a58b99-552c-41d5-95e8-011fced08d33)
 
 Fig.1 – Bar Plot for Distribution of land cover class labels
 
