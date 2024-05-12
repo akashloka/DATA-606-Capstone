@@ -11,7 +11,19 @@ Yashwanth Vemulapalli – PP24297
 * Project Title : Deciphering Earth’s Surface – Land Cover Prediction via Computer Vision on Satellite Imagery
 * Prepared for UMBC Data Science Master Degree Capstone by Dr. Tony Diana
 * Course Code: Data 606
-* Presentation file: 
+* Presentation file:
+
+### 2. Background
+#### What are your research questions?
+How can deep learning architectures like Convolution Neural Networks (CNNs) be adapted  to handle satellite imagery data?
+
+How can transfer learning techniques be utilized to leverage pre-trained deep learning models for land cover prediction in satellite imagery?
+
+How does the data augmentation beneficial for enhancing the performance of the image recognition model?
+
+How do pre-trained architectures (For example ResNet, DenseNet, Inception V3, VGG16 etc.,) compare in terms of land cover prediction accuracy on satellite imagery dataset?
+
+
 
 ### 2. ABSTRACT
 
