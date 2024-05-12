@@ -78,12 +78,12 @@ From the above line charts for image heights and widths, it can be observed that
 ### 7.	METHODOLOGY 
 For building this image recognition system, the following methodology has been employed.
 
-•	Download the dataset from the source.
-•	Explore the image data.
-•	Create a custom data generator and process .tiff image files using tifffile library.
-•	Create a CNN model and use pre-trained CNN models (VGG16, VGG19, Xception).
-•	Train the model.
-•	Deploy the web app created using Streamlit in NGROK.
+*	Download the dataset from the source.
+*	Explore the image data.
+*	Create a custom data generator and process .tiff image files using tifffile library.
+*	Create a CNN model and use pre-trained CNN models (VGG16, VGG19, Xception).
+*	Train the model.
+*	Deploy the web app created using Streamlit in NGROK.
 
 ### 8.	RESULTS
 The following are the training results obtained for each model for the following conditions.
