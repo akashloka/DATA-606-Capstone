@@ -50,7 +50,7 @@ Shaha and Pawar delve into the utilization of CNNs, specifically leveraging pre-
 
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/c2a58b99-552c-41d5-95e8-011fced08d33)
 
-Fig.1 – Bar Plot for Distribution of land cover class labels
+                                      Fig.1 – Bar Plot for Distribution of land cover class labels
 
 From the above plot it can be observed that the Pasture image label has least number of images in dataset and whereas the below mentioned labels has the highest number of images.
 *	Herbaceous Vegetation
@@ -61,17 +61,17 @@ From the above plot it can be observed that the Pasture image label has least nu
 
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/6d2d2482-6e22-4469-93ca-8cd8222e7ad9)
 
-Fig.2  – Line chart showing channel size variation
+                                      Fig.2  – Line chart showing channel size variation
 
 From the above line chart, it can be observed that there are same number of channels for all the images in the dataset which are 13.
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/0f3c6ab8-2b15-4ada-9d33-1c04a4fa12f9)
 
-Fig.3– Sample images from the dataset.
+                                      Fig.3– Sample images from the dataset.
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/6087c7e3-5e5d-427a-9806-f10fcb2e3bf3)
 
-Fig.4 – Line chart for heights and widths of images.
+                                      Fig.4 – Line chart for heights and widths of images.
 
 From the above line charts for image heights and widths, it can be observed that the heights and widths of all images are found to be 64 and 64 respectively.
 
@@ -102,19 +102,19 @@ Table.1 – Summary of the Models
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/4db8fc36-a22b-4da5-b01d-250e87f8365c)
 
-Fig.5 – Loss and Accuracy plot for CNN Model
+                                      Fig.5 – Loss and Accuracy plot for CNN Model
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/f6db1201-cbdf-4b3f-a729-201f36d236d2)
 
-Fig.6 – Loss and Accuracy plot for 	VGG19 Model
+                                      Fig.6 – Loss and Accuracy plot for 	VGG19 Model
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/9be3de12-65f4-4fd7-9e7e-fce88bd6d3ae)
 
-Fig.7 – Loss and Accuracy plot for VGG16 Model
+                                      Fig.7 – Loss and Accuracy plot for VGG16 Model
  
 ![image](https://github.com/akashloka/DATA-606-Capstone/assets/82594243/1254e85c-a161-417f-a0c0-79a6fa41dd4e)
 
-Fig.8 – Loss and Accuracy plot for Xception Model
+                                      Fig.8 – Loss and Accuracy plot for Xception Model
 
 ### 9.	CONCLUSION
 
