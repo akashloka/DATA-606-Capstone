@@ -47,6 +47,9 @@ Shaha and Pawar (2018) [3]:
 Shaha and Pawar delve into the utilization of CNNs, specifically leveraging pre-trained models such as VGG19, for tasks related to image classification. They apply transfer learning to refine pre-existing networks on recognized datasets like GHIM10K and CalTech256, evaluating the efficacy of VGG19 against other well-known CNN structures like AlexNet and VGG16. Furthermore, they explore hybrid learning strategies that combine CNN feature extraction with support vector machine (SVM) classifiers. Their results illustrate the efficacy of fine-tuning VGG19 in achieving superior performance in image classification endeavors, underscoring the significance of CNN architectures and transfer learning methodologies.
 
 ### 6.	EXPLORATORY DATA ANALYSIS
+
+<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/58fa4c12-e4ce-414b-b2e9-7b1ea5b81a47">
+
  
 Fig.1 – Bar Plot for Distribution of land cover class labels
 From the above plot it can be observed that the Pasture image label has least number of images in dataset and whereas the below mentioned labels has the highest number of images.
