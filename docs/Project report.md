@@ -49,22 +49,26 @@ Shaha and Pawar delve into the utilization of CNNs, specifically leveraging pre-
 ### 6.	EXPLORATORY DATA ANALYSIS
 
 <img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/58fa4c12-e4ce-414b-b2e9-7b1ea5b81a47">
-
- 
 Fig.1 – Bar Plot for Distribution of land cover class labels
+
 From the above plot it can be observed that the Pasture image label has least number of images in dataset and whereas the below mentioned labels has the highest number of images.
 •	Herbaceous Vegetation
 •	Forest
 •	Sealake
 •	Annual Crop
 •	Residential
- 
+
+<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/e1f90631-4f96-4c95-80bd-cf0191c7045f">
 Fig.2  – Line chart showing channel size variation
+
 From the above line chart, it can be observed that there are same number of channels for all the images in the dataset which are 13.
  
+<img width="426" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/9b99f851-3a13-433d-b208-7a2561402f3c">
 Fig.3– Sample images from the dataset.
  
-Fig.4 – Line chart for heights and widths of images
+<img width="470" alt="image" src="https://github.com/akashloka/DATA-606-Capstone/assets/82594243/3d773609-cef8-4375-b702-a98e90a75e43">
+Fig.4 – Line chart for heights and widths of images.
+
 From the above line charts for image heights and widths, it can be observed that the heights and widths of all images are found to be 64 and 64 respectively.
 
 ### 7.	METHODOLOGY 
