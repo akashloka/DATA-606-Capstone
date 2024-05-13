@@ -11,7 +11,7 @@
 * Yashwanth Vemulapalli – PP24297
 #### Prepared for UMBC Data Science Master Degree Capstone by Dr. Tony Diana
 #### Course Code: Data 606
-#### Presentation file:
+#### Presentation file: https://github.com/akashloka/DATA-606-Capstone/blob/main/docs/DATA606-Project.pptx
 
 ### 2. Background
 #### What are your research questions?
